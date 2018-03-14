@@ -1,3 +1,4 @@
+#基于OpenJDK镜像制作的Tomcat镜像
 FROM openjdk:8-jre
 
 MAINTAINER xlogin@189.cn
